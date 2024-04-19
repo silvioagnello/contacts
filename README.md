@@ -22,6 +22,15 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Classe HELPER (repository)
 - Será no padrão SINGLETON
-- Inicializar o DB (Banco de Dados) se já não estiver inicializado
-- 
+- Inicializar o DB (Banco de Dados - SQLITE) se já não estiver inicializado
+- Criará a tabela de Contatos (Comandos em maiusculas e parâmetros em minusculas)
+- Terá função para SALVAR um Contato
+- Terá função para OBTER dados de um Contato
+- Terá função para ELIMINAR um Contato
+- Terá função para ATUALIZAR um Contato
+- como adicional criar uma função para OBTER TODOS os Contatos
+- também como adicional terá uma função para OBTER TOTAL DE CONTATOS cadastrados
+- Tentar criar REPOSITORY DYNAMICALY
+- Tentar criar funcionalidade para rodar pelo WINDOWS
+
 
